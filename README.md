@@ -1,1 +1,3 @@
-# Raspberry-NAS-OMV
+# Raspberry-NAS (OpenMediaVault)
+
+Step one
